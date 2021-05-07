@@ -1,0 +1,2 @@
+# Analysis-of-Women-Safety-in-Indian-Cities-Using-Twitter-data
+Analysis of Women Safety in Indian Cities Using Twitter data is to analyze women safety using social networking messages and by applying machine learning algorithms on it. Now-a-days almost all peoples are using social networking sites to express their feelings and if any women feel unsafe in any area then she will express negative words in her post/tweets/messages and by analyzing those messages we can detect which area is more unsafe for women’s.
