@@ -14,6 +14,7 @@ Author using TEXTBLOB corpora package and dictionary to count positive, negative
 To run this project, install python software and then run below command to install packages
 
 Pip install numpy
+
 Pip install pandas==0.25.3
 
 
